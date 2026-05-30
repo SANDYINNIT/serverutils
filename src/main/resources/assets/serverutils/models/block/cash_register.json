@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "serverutils:block/cash_register_bottom",
+    "up": "serverutils:block/cash_register_top",
+    "north": "serverutils:block/cash_register_front",
+    "south": "serverutils:block/cash_register_side",
+    "east": "serverutils:block/cash_register_side",
+    "west": "serverutils:block/cash_register_side",
+    "particle": "serverutils:block/cash_register_side"
+  }
+}

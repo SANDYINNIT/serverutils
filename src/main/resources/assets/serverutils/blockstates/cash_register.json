@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "serverutils:block/cash_register"
+    }
+  }
+}
